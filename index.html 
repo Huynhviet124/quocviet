@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bai1</title>
+</head>
+<body>
+    <h1> FIFA World Cup 2014 News </h1>
+    <p> The biggest scorelinein the history of the <b> FIFA World Cup </b> qualifiers - and indeed in the history of international football - was recorded on 11 April 2001, when Australia beat American Samoa 31-0.
+    <p> This legendary match also brought global renown for <i>Archie Thompson</i>, whose 13-goal haul set a new world record, which stands to this day, for an individual player in a single international match.  </p>
+    <p> And though the defeat earned American Samoa ignominy, so inspiring has their subsequent recover been that it is now the subject of an acclaimed documentary, <i>'Next Goal Wins '</i>, showing across the world.</p>
+    <h2> Destinations </h2>
+    <li><a href= "https://en.wikipedia.org/wiki/Mineirão" > BELO HORIZONTE. STADIUM : Estadio Mineirao </a></li>
+    <li><a href= "https://en.wikipedia.org/wiki/Estádio_Nacional_Mané_Garrincha" > BRASILIA. STADIUM : Estadio Nacional </a></li>
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_Pantanal" > CUIABA. STADIUM : Arena Pantanal </a></li>
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_da_Baixada" > CURITIBA. STADIUM : Arena Pantanal </a</li>
+    <li><a href= "https://en.wikipedia.org/wiki/Castelão_(Ceará)" > FORTALEZA. STADIUM : Estadio Castelao </a</li>
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_da_Amazônia" > MANAUS. STADIUM : Arena Amanzonia </a</li>
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_das_Dunas" > NATAL. STADIUM : Estadio das Dunas </a</li>
+    <li><a href= "https://en.wikipedia.org/wiki/Estádio_Beira-Rio" > PORTO ALEGRE. STADIUM : Estadio Beira-Rio </a></li>  
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_Pernambuco" > RECIFE. STADIUM : Arena Pernambuco</a> </li>
+    <li><a href= "https://en.wikipedia.org/wiki/Maracanã_Stadium" > RIO DEJANEIRO. STADIUM : Maracanã - estádio Jornalista Mário Filho</a></li>
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_Fonte_Nova" > SALVADOR. STADIUM : Arena Fonte Nova </a></li>
+    <li><a href= "https://en.wikipedia.org/wiki/Arena_Corinthians" > SAO PAULO.STADIUM : Arna de Sao Paulo</a></li>
+    <img src ="./img/80154bf2d4a6f9d61cb9730c3a4d023a_t-2.jpeg" alt= "" width="40" height="40">
+    <img src ="./img/174857.png" alt= "" width="40" height="40">
+    <img src ="./img/Twitter-logo.svg.webp" alt="" width="40" height="40">
+</body>
+</html>
